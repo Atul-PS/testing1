@@ -1,1 +1,1 @@
-hfggfggjjgit remote add origin https://github.com/Atul-PS/testing1.gitjf
+Write a function add that accept two interger and return sum of the integer
