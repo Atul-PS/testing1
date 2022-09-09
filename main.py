@@ -1,4 +1,4 @@
 import test
-a = int(input())
-b = int(input())
-print(test.add(a,b))
+a = 2
+b = 2
+print(a+b)
